@@ -45,6 +45,8 @@ export default function Home() {
         <Image
           src="background.jpg"
           alt="Ocean Image"
+          width={1920}
+          height={1080}
           className="lg:absolute object-cover lg:inset-y-0 lg:right-0 lg:h-full lg:w-full"
         />
       </div>
